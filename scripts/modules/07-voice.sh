@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # RUN_AS: hermes
 # OPTIONAL
-# Модуль 06: распознавание речи (gigastt, GigaAM v3) для голосовых сообщений. Работает локально, ~0.8 ГБ RAM.
+# Модуль 07: распознавание речи (gigastt, GigaAM v3) для голосовых сообщений. Работает локально, ~0.8 ГБ RAM.
 # shellcheck disable=SC2034
 MOD_TITLE="Голос: распознавание речи gigastt (Ubuntu 24.04, RAM >= 6 ГБ)"
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"

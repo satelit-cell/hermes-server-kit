@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # RUN_AS: root
 # OPTIONAL
-# Модуль 09: Amnezia VPN. Сам VPN ставится на ПК клиентом Amnezia (он сам развернёт сервер по SSH).
+# Модуль 05: Amnezia VPN. Сам VPN ставится на ПК клиентом Amnezia (он сам развернёт сервер по SSH).
 # Этот модуль только готовит сервер (Docker) и печатает пошаговую памятку.
 # shellcheck disable=SC2034
 MOD_TITLE="Amnezia VPN: подготовка и памятка (клиент ставится на ПК)"

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # RUN_AS: hermes
 # OPTIONAL
-# Модуль 07: Telegram-бот Hermes. Токен бота получаете у @BotFather, ваш числовой ID у @userinfobot.
+# Модуль 08: Telegram-бот Hermes. Токен бота получаете у @BotFather, ваш числовой ID у @userinfobot.
 # Токен вводится скрыто и пишется только в ~/.hermes/.env (права 600).
 # shellcheck disable=SC2034
 MOD_TITLE="Telegram-бот"

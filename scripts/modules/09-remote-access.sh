@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # RUN_AS: root
-# Модуль 08: удалённый доступ для Hermes Android (и Desktop с другого ПК) через Tailscale.
+# Модуль 09: удалённый доступ для Hermes Android (и Desktop с другого ПК) через Tailscale.
 # Порты gateway (8642) и dashboard (9119) привязываются ТОЛЬКО к адресу Tailscale, в интернет не смотрят.
 # shellcheck disable=SC2034,SC2088
 MOD_TITLE="Удалённый доступ: Tailscale для Hermes Android"

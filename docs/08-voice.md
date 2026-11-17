@@ -4,7 +4,7 @@
 
 **Требуется Ubuntu 24.04** (gigastt собран под glibc 2.38+). На 22.04 модуль сообщит об этом и пропустится.
 
-Установка: `sudo bash scripts/install.sh --only 06` (запускается от hermes автоматически).
+Установка: `sudo bash scripts/install.sh --only 07` (запускается от hermes автоматически).
 Проверка: `curl http://127.0.0.1:9876/ready` и `systemctl --user status gigastt`.
 Выключить для экономии памяти: `systemctl --user stop gigastt`.
 
